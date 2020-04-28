@@ -12,3 +12,6 @@
 <h2>Dependências</h2>
 
 <p>Foi utilizado <strong>express / nodemon</strong>
+  
+  ![Git](https://user-images.githubusercontent.com/59074122/80516785-61da9b80-895a-11ea-929e-21a5fd7a6373.png)
+
