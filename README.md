@@ -1,7 +1,7 @@
 <h1> SemanaOmnistack10 </h1>
 
 
-<p>Projeto feito na Semana Omnistack 11 da rocketseat</p>
+<p>Projeto feito na Semana Omnistack 10 da rocketseat</p>
 <p>Nesse projeto foi feito um site busca de Dev pelas proximidades</p>
 
 <h2>Arquitetura</h2>
